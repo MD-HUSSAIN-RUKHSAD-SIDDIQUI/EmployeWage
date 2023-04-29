@@ -1,0 +1,8 @@
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\EmployeeWageProblem.exe.config
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\EmployeeWageProblem.exe
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\EmployeeWageProblem.pdb
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\EmployeeWageProblem.csproj.AssemblyReference.cache
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\EmployeeWageProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\EmployeeWageProblem.csproj.CoreCompileInputs.cache
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\EmployeeWageProblem.exe
+C:\Users\mdhus\OneDrive\Desktop\EmployeeWageCalculation\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\EmployeeWageProblem.pdb
